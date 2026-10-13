@@ -1,0 +1,8 @@
+Task: Read the customer's full name, street address, city, PIN code and delivery preference. 
+Display the complete delivery details. 
+Sample input: 
+Arun Kumar 
+12 Lake Road, Near Park 
+Coimbatore 
+641001 
+false
