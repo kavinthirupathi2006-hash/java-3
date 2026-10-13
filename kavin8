@@ -1,0 +1,13 @@
+Task: Read the customer's name, movie name, ticket count and ticket price. Display a 
+booking summary. Do not calculate the total yet; arithmetic operators are not part of Day 1. 
+Sample input: 
+Karthik 
+Leo 
+3 
+180.50 
+Sample output: 
+BOOKING SUMMARY 
+Customer: Karthik 
+Movie: Leo 
+Tickets: 3 
+Ticket Price: 180.5
