@@ -1,0 +1,20 @@
+Task: Build a patient registration program that accepts: 
+● Patient's full name 
+● Patient ID 
+● Age 
+● Body temperature 
+● Admitted status 
+Print the complete patient record. 
+Sample input: 
+Suresh Kumar 
+5012 
+45 
+98.6 
+false 
+Expected output: 
+PATIENT RECORD 
+Patient Name: Suresh Kumar 
+Patient ID: 5012 
+Age: 45 
+Temperature: 98.6 
+Admitted: false
