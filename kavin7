@@ -1,0 +1,13 @@
+Task: Read a student's full name, roll number, department and percentage. Print a formatted 
+registration receipt. 
+Sample input: 
+Meena Raj 
+204 
+ECE 
+91.25 
+Sample output: 
+STUDENT REGISTRATION 
+Name: Meena Raj 
+Roll Number: 204 
+Department: ECE 
+Percentage: 91.25
